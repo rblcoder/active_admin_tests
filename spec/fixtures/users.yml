@@ -1,0 +1,8 @@
+:karl:
+  email: "admin@example.com"
+  encrypted_password: "password"
+# column: value
+#
+:bob:
+  email: "admin1@example.com"
+  encrypted_password: "password"

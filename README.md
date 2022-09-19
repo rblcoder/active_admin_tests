@@ -12,3 +12,7 @@ https://activeadmin.info/0-installation.html#setting-up-active-admin
 ## Command to run the tests
 
 rspec
+
+## Active admin wiki
+
+https://github.com/activeadmin/activeadmin/wiki
